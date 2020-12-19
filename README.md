@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**SourinMajumdar/SourinMajumdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m a First Year Undergrad Student at VIT - Amaravati (AP) 
+- 🌱 I’m currently learning Web Development (HTML, CSS, JavaScript ...)
+- 🤔 I’m looking for guidance on how to contribute to open source ! 
+- 💬 Ask me on: C, Java, Python, Mathematics ! 
+- 📫 Reach me on: 
+  [LinkedIn](https://www.linkedin.com/in/sourinmajumdar)
+  [Twitter](https://www.twitter.com/SourinSM)
+  [Instagram](https://www.instagram.com/sourin___m)
+  [Facebook](https://www.facebook.com/sourin.majumdar)
+  
+- 😄 Pronouns: He / Him 
+- ⚡ Fun fact: I'm a Meme-addicted Coder !  
