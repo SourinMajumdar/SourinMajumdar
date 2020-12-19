@@ -1,6 +1,6 @@
 Hello There !
 
-- 🔭 I’m a First Year Undergrad Student at VIT - Amaravati (AP) 
+- 🔭 I’m a First Year CSE Undergrad Student at VIT - Amaravati (AP) 
 - 🌱 I’m currently learning Web Development (HTML, CSS, JavaScript ...)
 - 🤔 I’m looking for guidance on how to contribute to open source ! 
 - 💬 Ask me on: C, Java, Python, Mathematics ! 
@@ -12,3 +12,4 @@ Hello There !
   
 - 😄 Pronouns: He / Him 
 - ⚡ Fun fact: I'm a Meme-addicted Coder !  
+- Code EDMs Food 
