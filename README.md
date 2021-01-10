@@ -1,7 +1,7 @@
 Hello There !
 
-- 🔭 I’m a First Year CSE Undergrad Student at VIT - Amaravati (AP) 
-- 🌱 I’m currently learning Web Development (HTML, CSS, JavaScript ...)
+- 👨‍🎓 I’m a First Year CSE Undergrad Student at VIT - Amaravati (AP) 
+- 👨‍💻 I’m currently learning Web Development (HTML, CSS, JavaScript ...) 🌐
 - 🤔 I’m looking for guidance on how to contribute to open source ! 
 - 💬 Ask me on: C, Java, Python, Mathematics ! 
 - 📫 Reach me on: 
