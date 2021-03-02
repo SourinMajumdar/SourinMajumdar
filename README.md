@@ -12,4 +12,4 @@ Hello There !
   
 - 😄 Pronouns: He / Him 
 - ⚡ Fun fact: I'm a Meme-addicted Coder !  
-- Code • EDMs • Food 💥
+- Code • Dumbbells • EDMs • Food 💥
