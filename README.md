@@ -1,4 +1,4 @@
-# Hello There ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px">
+# Hello There ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px">😄
 
 ## I am Sourin ⚡
 - 👨‍🎓 I’m a First Year CSE Undergrad Student at VIT - Amaravati (AP) 
@@ -23,8 +23,10 @@
 </p>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 <br>
-  
-  <center><h3><b>My GitHub Stats</b></h3></center>
+  <br>
+ 
+ 
+ <h3><b>My GitHub Stats: </b></h3>
     <br>
     <a href="https://github.com/SourinMajumdar/SourinMajumdar">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=SourinMajumdar&show_icons=true&show_icons=true&theme=tokyonight"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SourinMajumdar&layout=compact&theme=tokyonight"/>
@@ -32,3 +34,7 @@
       
 <br>[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=SourinMajumdar&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
   </a>
+ 
+  
+
+   <br>![](https://komarev.com/ghpvc/?username=SourinMajumdar&color=orange&style=flat-square&label=Profile+Visits)
