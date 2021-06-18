@@ -29,7 +29,7 @@
  <h3><b>My GitHub Stats: </b></h3>
     <br>
     <a href="https://github.com/SourinMajumdar/SourinMajumdar">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SourinMajumdar&show_icons=true&show_icons=true&theme=tokyonight"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SourinMajumdar&layout=compact&theme=tokyonight"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SourinMajumdar&show_icons=true&show_icons=true&theme=tokyonight"/><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SourinMajumdar&layout=compact&theme=tokyonight"/>
       
       
 <br>[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=SourinMajumdar&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
