@@ -35,6 +35,4 @@
 <br>[![Sourin's github activity graph](https://activity-graph.herokuapp.com/graph?username=SourinMajumdar&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
   </a>
  
-  
-
    <br>![](https://komarev.com/ghpvc/?username=SourinMajumdar&color=orange&style=flat-square&label=Profile+Visits)
