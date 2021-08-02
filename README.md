@@ -32,7 +32,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=SourinMajumdar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SourinMajumdar&layout=compact&theme=algolia"/>
       
-<br>[![Sourin's github activity graph](https://activity-graph.herokuapp.com/graph?username=SourinMajumdar&theme=react-dark)]
+<br>![Sourin's github activity graph](https://activity-graph.herokuapp.com/graph?username=SourinMajumdar&theme=react-dark)
   </a>
  
    <br>![](https://komarev.com/ghpvc/?username=SourinMajumdar&color=orange&style=flat-square&label=Profile+Visits)
