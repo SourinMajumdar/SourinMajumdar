@@ -1,7 +1,7 @@
 # Hello There ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px">😄
 
 ## I am Sourin ⚡
-- 👨‍🎓 I’m a First Year CSE Undergrad Student at VIT - Amaravati (AP) 
+- 👨‍🎓 I’m a Second Year CSE Undergrad Student at VIT - Amaravati (AP) 
 - 👨‍💻 Currently pushing myself to better my Data Structures knowledge 🌐
 - 🤔 I’m looking for guidance regarding contribution to open source ! 
 - 💬 Ask me on: Java, Python, Mathematics 
@@ -9,7 +9,7 @@
   
 - 😄 Pronouns: He / Him 
 - ⚡ Fun fact: I'm a Meme addict !  
-- Code • Dumbbells • EDMs • Food 💥
+- Code • Songs • Memes • Food 💥
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 <h3 align="center">📫 Reach me on</h3>
 <p align="center"> 
