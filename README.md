@@ -1,15 +1,14 @@
 # Hello There ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px">😄
 
 ## I am Sourin ⚡
-- 👨‍🎓 I’m a Second Year CSE Undergrad Student at VIT - Amaravati (AP) 
-- 👨‍💻 Currently pushing myself to better my Data Structures knowledge 🌐
-- 🤔 I’m looking for guidance regarding contribution to open source ! 
-- 💬 Ask me on: Java, Python, Mathematics 
-
-  
+- 👨‍🎓 I’m a Second Year CSE Undergrad Student at VIT - Amaravathi (AP) 
+- 👨‍💻 Currently pushing myself to better my DSA knowledge 🌐
+- 🤔 I’m looking for guidance onopen source contribution. 
+- 💬 Ask me on: I am still a noob. So maybe ask me on how to be mischeavous XD 
 - 😄 Pronouns: He / Him 
-- ⚡ Fun fact: I'm a Meme addict !  
-- Code • Songs • Memes • Food 💥
+- ⚡ Fun fact: I'm a Meme addict and I possess ugly a$$ dArK hUmOr!
+- ✏️ I am also a Portrait Artist!  
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 <h3 align="center">Connect with me! 📫</h3>
 <p align="center"> 
@@ -35,6 +34,6 @@
 <br>![Sourin's github activity graph](https://activity-graph.herokuapp.com/graph?username=SourinMajumdar&theme=react-dark)
   </a>
  
-   <br>![](https://komarev.com/ghpvc/?username=SourinMajumdar&color=orange&style=flat-square&label=Profile+Visits)
+   <br>![](https://komarev.com/ghpvc/?username=SourinMajumdar&color=orange&style=flat-square&label=Profile+views)
   
 <!--  https://github-readme-stats.vercel.app/api?username=SourinMajumdar&show_icons=true&show_icons=true&theme=tokyonight -->
