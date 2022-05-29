@@ -43,9 +43,6 @@
     <img src="https://user-images.githubusercontent.com/71887222/122573120-0f7fa100-d06c-11eb-879e-4eccb0c4bc4e.png" height="50"></a>
 </p>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-<br>
-  <br>
- 
  
  <h3><b>My GitHub Stats <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </b></h3>
   <p align="center">
