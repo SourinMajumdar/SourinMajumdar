@@ -54,9 +54,9 @@
       <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=SourinMajumdar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/></a>
     <a href="https://github.com/SourinMajumdar/SourinMajumdar">
       <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SourinMajumdar&layout=compact&theme=tokyonight"/></a>
-  </p>
+  </p><br>
 
-  <p align="center"><img width="93%" src="https://activity-graph.herokuapp.com/graph?username=SourinMajumdar&theme=rogue"></p>
+  <p align="center"><img width="100%" src="https://activity-graph.herokuapp.com/graph?username=SourinMajumdar&theme=rogue"></p><br>
 <p align="center"> <img height="25px" src="https://komarev.com/ghpvc/?username=SourinMajumdar&label=Profile%20views&color=fa1b87&style=flat"> </p>
   
 <!--  https://github-readme-stats.vercel.app/api?username=SourinMajumdar&show_icons=true&show_icons=true&theme=tokyonight -->
