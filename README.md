@@ -51,9 +51,9 @@
   <p align="center">
     <br>
     <a href="https://github.com/SourinMajumdar/SourinMajumdar">
-      <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=SourinMajumdar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/></a>&nbsp;
+      <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=SourinMajumdar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/></a>&nbsp;
     <a href="https://github.com/SourinMajumdar/SourinMajumdar">
-      <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SourinMajumdar&layout=compact&theme=tokyonight"/></a>
+      <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SourinMajumdar&layout=compact&theme=tokyonight"/></a>
   </p>
 
   <p align="center"><img width="93%" src="https://activity-graph.herokuapp.com/graph?username=SourinMajumdar&theme=rogue"></p>
