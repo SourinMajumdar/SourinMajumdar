@@ -1,4 +1,4 @@
-# Hello There ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px">😄
+# Hello There ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="40px">😄
 
 ## I am Sourin ⚡
 - 👨‍🎓 I’m a Second Year CSE Undergrad Student at VIT - Amaravathi (AP) 
