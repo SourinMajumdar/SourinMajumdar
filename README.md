@@ -12,19 +12,11 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 <h3 align="center">Connect with me! 📫</h3>
 <p align="center"> 
-<a href="www.linkedin.com/in/sourinmajumdar">
-  <img src="https://user-images.githubusercontent.com/71887222/122536023-bdc22100-d041-11eb-8760-9437e9966fb8.png" height="40"></a>
-  &nbsp;&nbsp;&nbsp;
-<a href="www.twitter.com/SourinSM">
-  <img src="https://user-images.githubusercontent.com/71887222/122536343-0c6fbb00-d042-11eb-9c23-1dafa5c9d89c.png" height="35"></a>
-  &nbsp;&nbsp;&nbsp;
-<a href="www.instagram.com/sourin.py"><img src="https://user-images.githubusercontent.com/71887222/122575159-14ddeb00-d06e-11eb-93f3-547c1d0b236e.png" width="40" height="40"></a>
-  &nbsp;&nbsp;&nbsp;
-<a href="www.facebook.com/sourin.majumdar">
-  <img src="https://user-images.githubusercontent.com/71887222/122536437-23aea880-d042-11eb-9c26-f69bf1b759b5.png" height="40"></a>
-  &nbsp;&nbsp;&nbsp;
-<a href="https://discords.com/bio/p/Sourin69">
-  <img src="https://user-images.githubusercontent.com/71887222/122561823-ef49e500-d05f-11eb-9a72-fdcd5b5a5c27.png" height="50"></a>
+  <a href="www.linkedin.com/in/sourinmajumdar"><img src="icons/linkedin.png" height="40"></a> &nbsp;&nbsp;&nbsp;
+  <a href="www.twitter.com/SourinSM"><img src="icons/twitter.png" height="40"></a> &nbsp;&nbsp;&nbsp;
+  <a href="www.instagram.com/sourin.py"><img src="icons/instagram.png" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;
+  <a href="www.facebook.com/sourin.majumdar"><img src="icons/facebook.png" height="40"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://discords.com/bio/p/Sourin69"><img src="icons/discord.png" height="40"></a>
 </p>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 
