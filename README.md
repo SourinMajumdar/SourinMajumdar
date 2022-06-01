@@ -1,13 +1,21 @@
 # Nǐ hǎo, I'm Sourin! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="40px">😄
 <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png">
 
-- 👨‍🎓 I’m a Second Year CSE Undergrad Student at VIT - Amaravathi (AP) 
-- 👨‍💻 Currently pushing myself to better my DSA knowledge 🌐
-- 🤔 I’m looking for guidance on open source. 
-- 💬 Ask me on: I am still a noob. So maybe ask me on how to be mischeavous XD 
-- 😄 Pronouns: He / Him 
-- ⚡ Fun fact: I'm a Meme addict and I possess ugly a$$ dArK hUmOr!
-- ✏️ I am also a Portrait Artist!  
+<div>
+  <div>
+    
+  </div>
+  <div>
+    - 👨‍🎓 I’m a Second Year CSE Undergrad Student at VIT - Amaravathi (AP) <br>
+    - 👨‍💻 Currently pushing myself to better my DSA knowledge 🌐 <br>
+    - 🤔 I’m looking for guidance on open source. <br>
+    - 💬 Ask me on: I am still a noob. So maybe ask me on how to be mischeavous XD <br>
+    - 😄 Pronouns: He / Him <br>
+    - ⚡ Fun fact: I'm a Meme addict and I possess ugly a$$ dArK hUmOr! <br>
+    - ✏️ I am also a Portrait Artist! <br>  
+  </div>  
+</div>
+
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 <h3 align="center">Connect with me! 📫</h3>
