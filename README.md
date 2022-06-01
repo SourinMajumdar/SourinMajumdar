@@ -1,9 +1,9 @@
-# Hello There ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="40px">😄
+# Nǐ hǎo, I'm Sourin! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="40px">😄
+<img src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png">
 
-## I am Sourin ⚡
 - 👨‍🎓 I’m a Second Year CSE Undergrad Student at VIT - Amaravathi (AP) 
 - 👨‍💻 Currently pushing myself to better my DSA knowledge 🌐
-- 🤔 I’m looking for guidance onopen source contribution. 
+- 🤔 I’m looking for guidance on open source. 
 - 💬 Ask me on: I am still a noob. So maybe ask me on how to be mischeavous XD 
 - 😄 Pronouns: He / Him 
 - ⚡ Fun fact: I'm a Meme addict and I possess ugly a$$ dArK hUmOr!
