@@ -9,16 +9,16 @@
 - ⚡ Fun fact: I'm a Meme addict and I possess ugly a$$ dArK hUmOr!
 - ✏️ I am also a Portrait Artist!  
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="5px">
 <h3 align="center">Connect with me! 📫</h3>
 <p align="center"> 
-  <a href="www.linkedin.com/in/sourinmajumdar"><img src="icons/linkedin.png" height="40"></a> &nbsp;&nbsp;&nbsp;
-  <a href="www.twitter.com/SourinSM"><img src="icons/twitter.png" height="40"></a> &nbsp;&nbsp;&nbsp;
-  <a href="www.instagram.com/sourin.py"><img src="icons/instagram.png" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;
-  <a href="www.facebook.com/sourin.majumdar"><img src="icons/facebook.png" height="40"></a>&nbsp;&nbsp;&nbsp;
+  <a href="www.linkedin.com/in/sourinmajumdar"><img src="icons/linkedin.png" height="40"></a>&nbsp;&nbsp;&nbsp;
+  <a href="www.twitter.com/SourinSM"><img src="icons/twitter.png" height="40"></a>&nbsp;&nbsp;&nbsp;
+  <a href="www.instagram.com/sourin.py"><img src="icons/ig.png" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;
+  <a href="www.facebook.com/sourin.majumdar"><img src="icons/fb.png" height="40"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://discords.com/bio/p/Sourin69"><img src="icons/discord.png" height="40"></a>
 </p>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="5px">
 
 <h3 align="center">Also find me on</h3>
 <p align="center">
@@ -34,7 +34,7 @@
   <a href="https://leetcode.com/sourin_bruh/">
     <img src="https://user-images.githubusercontent.com/71887222/122573120-0f7fa100-d06c-11eb-879e-4eccb0c4bc4e.png" height="50"></a>
 </p>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="5px">
  
  <h3><b>My GitHub Stats <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </b></h3>
   <p align="center">
