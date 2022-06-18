@@ -2,7 +2,7 @@
 <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png">
 
 - 👨‍🎓 I’m a Second Year CSE Undergrad Student at VIT - Amaravathi (AP) 
-- 👨‍💻 I am currently learning data structures and Web Development .
+- 👨‍💻 I am currently learning Data Structures and Web Development .
 - 🤔 I’m looking for guidance on open source. 
 - 💬 Ask me on: I am still a noob. So maybe ask me on how to be mischeavous XD 
 - 😄 Pronouns: He / Him 
