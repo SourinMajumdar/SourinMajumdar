@@ -13,8 +13,8 @@
 <h3 align="center">Connect with me! 📫</h3>
 <p align="center"> 
   <a href="www.linkedin.com/in/sourinmajumdar"><img src="icons/linkedin.png" height="40"></a>&nbsp;&nbsp;&nbsp;
-  <a href="www.twitter.com/SourinSM"><img src="icons/twitter.png" height="40"></a>&nbsp;&nbsp;&nbsp;
-  <a href="www.instagram.com/sourin.py"><img src="icons/ig.png" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;
+  <a href="www.twitter.com/sourinstwt"><img src="icons/twitter.png" height="40"></a>&nbsp;&nbsp;&nbsp;
+  <a href="www.instagram.com/sourinsig"><img src="icons/ig.png" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;
   <a href="www.facebook.com/sourin.majumdar"><img src="icons/fb.png" height="40"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://discords.com/bio/p/Sourin69"><img src="icons/discord.png" height="40"></a>
 </p>
