@@ -19,4 +19,8 @@ and
 🎯 Other than that, I'm into : Riding, Singing, Sketching, Photography, Music  
 
 
-💌 [Connect with me](https://sourinlinks.vercel.app)
+💼 Currently looking for full-time software development opportunities.
+
+
+
+💌 [Connect with me](https://sourinlinks.vercel.app) 📃[View my Resume](https://drive.google.com/file/d/1IYnLgj2-wQTw5OMKKUVJ2B8_0ixizIEk/view)
