@@ -23,4 +23,5 @@ and
 
 
 
-💌 [Connect with me](https://sourinlinks.vercel.app) 📃[View my Resume](https://drive.google.com/file/d/1IYnLgj2-wQTw5OMKKUVJ2B8_0ixizIEk/view)
+<a href="https://sourinlinks.vercel.app" target="_blank">💌 Connect with me</a>
+<a href="https://drive.google.com/file/d/1IYnLgj2-wQTw5OMKKUVJ2B8_0ixizIEk/view" target="_blank">📃 View my Resume</a>
